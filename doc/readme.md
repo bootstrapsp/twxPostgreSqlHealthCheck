@@ -2,7 +2,7 @@
 
 ## Overview
 
- This document is trageted towards covering basic PostgreSQL monitoring and health check related system objects like tables, views, etc. This allows simple monitoring of PostgreSQL database via some custom services, which I'll attach at the end of this document, from the ThingWorx Composer itself. I'll also try to cover short detail on all the services that are included with the Thing: PostgreSQLHealthCheck which implements Database ThingTemplate. 
+ This document is trageted towards covering basic PostgreSQL monitoring and health check related system objects like tables, views, etc. This allows simple monitoring of PostgreSQL database via some custom services, which I'll attach at the end of this document, from the ThingWorx Composer itself. I'll also try to cover short detail on all the services that are included with the Thing: PostgreSQLHealthCheck which implements Database ThingTemplate.
 
 ## Pre-requisite
 
